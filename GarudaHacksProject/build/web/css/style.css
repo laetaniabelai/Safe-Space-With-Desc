@@ -1,0 +1,49 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 14, 2020, 7:17:47 PM
+    Author     : Finola
+*/
+body {
+    background: white;
+    font-family: arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+header {
+    background: rgb(44, 64, 90);
+    color: aliceblue;
+    padding: 20px;
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 15px;
+}
+section {
+    background: aliceblue;
+    padding: 20px;
+}
+.features {
+    background: aliceblue;
+}
+.platform {
+    background: rgb(44, 64, 90);
+    color: aliceblue;
+}
+.termsandconditions {
+    background: rgb(44, 64, 90);
+}
+footer {
+    background: rgb(44, 64, 90);
+    color: aliceblue;
+    padding: 20px;   
+}
